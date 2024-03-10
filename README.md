@@ -1,2 +1,2 @@
 # MIT
-My collage
+My college
